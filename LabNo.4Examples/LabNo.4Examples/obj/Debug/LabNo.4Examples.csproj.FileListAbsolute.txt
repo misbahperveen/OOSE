@@ -1,0 +1,5 @@
+C:\Users\xoxo\documents\visual studio 2013\Projects\LabNo.4Examples\LabNo.4Examples\bin\Debug\LabNo.4Examples.exe.config
+C:\Users\xoxo\documents\visual studio 2013\Projects\LabNo.4Examples\LabNo.4Examples\bin\Debug\LabNo.4Examples.exe
+C:\Users\xoxo\documents\visual studio 2013\Projects\LabNo.4Examples\LabNo.4Examples\bin\Debug\LabNo.4Examples.pdb
+C:\Users\xoxo\documents\visual studio 2013\Projects\LabNo.4Examples\LabNo.4Examples\obj\Debug\LabNo.4Examples.exe
+C:\Users\xoxo\documents\visual studio 2013\Projects\LabNo.4Examples\LabNo.4Examples\obj\Debug\LabNo.4Examples.pdb

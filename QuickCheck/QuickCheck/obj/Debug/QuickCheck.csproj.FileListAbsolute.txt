@@ -1,0 +1,6 @@
+c:\users\xoxo\documents\visual studio 2013\Projects\QuickCheck\QuickCheck\bin\Debug\QuickCheck.exe.config
+c:\users\xoxo\documents\visual studio 2013\Projects\QuickCheck\QuickCheck\bin\Debug\QuickCheck.exe
+c:\users\xoxo\documents\visual studio 2013\Projects\QuickCheck\QuickCheck\bin\Debug\QuickCheck.pdb
+c:\users\xoxo\documents\visual studio 2013\Projects\QuickCheck\QuickCheck\obj\Debug\QuickCheck.csprojResolveAssemblyReference.cache
+c:\users\xoxo\documents\visual studio 2013\Projects\QuickCheck\QuickCheck\obj\Debug\QuickCheck.exe
+c:\users\xoxo\documents\visual studio 2013\Projects\QuickCheck\QuickCheck\obj\Debug\QuickCheck.pdb

@@ -1,0 +1,6 @@
+c:\users\xoxo\documents\visual studio 2013\Projects\MidExamDSA\MidExamDSA\bin\Debug\MidExamDSA.exe.config
+c:\users\xoxo\documents\visual studio 2013\Projects\MidExamDSA\MidExamDSA\bin\Debug\MidExamDSA.exe
+c:\users\xoxo\documents\visual studio 2013\Projects\MidExamDSA\MidExamDSA\bin\Debug\MidExamDSA.pdb
+c:\users\xoxo\documents\visual studio 2013\Projects\MidExamDSA\MidExamDSA\obj\Debug\MidExamDSA.csprojResolveAssemblyReference.cache
+c:\users\xoxo\documents\visual studio 2013\Projects\MidExamDSA\MidExamDSA\obj\Debug\MidExamDSA.exe
+c:\users\xoxo\documents\visual studio 2013\Projects\MidExamDSA\MidExamDSA\obj\Debug\MidExamDSA.pdb

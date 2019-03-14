@@ -1,0 +1,6 @@
+c:\users\xoxo\documents\visual studio 2013\Projects\Lab2Examples\Lab2Examples\bin\Debug\Lab2Examples.exe.config
+c:\users\xoxo\documents\visual studio 2013\Projects\Lab2Examples\Lab2Examples\bin\Debug\Lab2Examples.exe
+c:\users\xoxo\documents\visual studio 2013\Projects\Lab2Examples\Lab2Examples\bin\Debug\Lab2Examples.pdb
+c:\users\xoxo\documents\visual studio 2013\Projects\Lab2Examples\Lab2Examples\obj\Debug\Lab2Examples.csprojResolveAssemblyReference.cache
+c:\users\xoxo\documents\visual studio 2013\Projects\Lab2Examples\Lab2Examples\obj\Debug\Lab2Examples.exe
+c:\users\xoxo\documents\visual studio 2013\Projects\Lab2Examples\Lab2Examples\obj\Debug\Lab2Examples.pdb

@@ -1,0 +1,6 @@
+c:\users\xoxo\documents\visual studio 2013\Projects\LabNo8\LabNo8\bin\Debug\LabNo8.exe.config
+c:\users\xoxo\documents\visual studio 2013\Projects\LabNo8\LabNo8\bin\Debug\LabNo8.exe
+c:\users\xoxo\documents\visual studio 2013\Projects\LabNo8\LabNo8\bin\Debug\LabNo8.pdb
+c:\users\xoxo\documents\visual studio 2013\Projects\LabNo8\LabNo8\obj\Debug\LabNo8.csprojResolveAssemblyReference.cache
+c:\users\xoxo\documents\visual studio 2013\Projects\LabNo8\LabNo8\obj\Debug\LabNo8.exe
+c:\users\xoxo\documents\visual studio 2013\Projects\LabNo8\LabNo8\obj\Debug\LabNo8.pdb

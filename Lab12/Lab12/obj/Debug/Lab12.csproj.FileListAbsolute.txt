@@ -1,0 +1,6 @@
+c:\users\xoxo\documents\visual studio 2013\Projects\Lab12\Lab12\bin\Debug\Lab12.exe.config
+c:\users\xoxo\documents\visual studio 2013\Projects\Lab12\Lab12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
+C:\Users\xoxo\documents\visual studio 2013\Projects\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\xoxo\documents\visual studio 2013\Projects\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\xoxo\documents\visual studio 2013\Projects\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\xoxo\documents\visual studio 2013\Projects\Lab12\Lab12\obj\Debug\Lab12.pdb

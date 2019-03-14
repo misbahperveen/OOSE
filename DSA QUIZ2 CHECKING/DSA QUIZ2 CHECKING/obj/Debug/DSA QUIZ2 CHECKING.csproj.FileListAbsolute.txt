@@ -1,0 +1,6 @@
+c:\users\xoxo\documents\visual studio 2013\Projects\DSA QUIZ2 CHECKING\DSA QUIZ2 CHECKING\bin\Debug\DSA QUIZ2 CHECKING.exe.config
+c:\users\xoxo\documents\visual studio 2013\Projects\DSA QUIZ2 CHECKING\DSA QUIZ2 CHECKING\bin\Debug\DSA QUIZ2 CHECKING.exe
+c:\users\xoxo\documents\visual studio 2013\Projects\DSA QUIZ2 CHECKING\DSA QUIZ2 CHECKING\bin\Debug\DSA QUIZ2 CHECKING.pdb
+c:\users\xoxo\documents\visual studio 2013\Projects\DSA QUIZ2 CHECKING\DSA QUIZ2 CHECKING\obj\Debug\DSA QUIZ2 CHECKING.csprojResolveAssemblyReference.cache
+c:\users\xoxo\documents\visual studio 2013\Projects\DSA QUIZ2 CHECKING\DSA QUIZ2 CHECKING\obj\Debug\DSA QUIZ2 CHECKING.exe
+c:\users\xoxo\documents\visual studio 2013\Projects\DSA QUIZ2 CHECKING\DSA QUIZ2 CHECKING\obj\Debug\DSA QUIZ2 CHECKING.pdb

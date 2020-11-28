@@ -1,87 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T14:33:41.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tTvO5IBfAy7WLR8TTHvK" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-28T18:43:25.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2o2laKXwW2jF9rh_bIM9" version="13.10.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3218" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3888" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-96" target="oiFNOzRaDenhQx7g8lt7-10">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-96" target="oiFNOzRaDenhQx7g8lt7-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-695" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-10" target="oiFNOzRaDenhQx7g8lt7-12">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-10" target="oiFNOzRaDenhQx7g8lt7-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-10" value="Add 4 - 6 % egg yolk as emulsifier&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;sketch=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-10" value="Add 4 - 6 % egg yolk as emulsifier&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;sketch=0;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-867.5" y="222" width="330" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-12" target="oiFNOzRaDenhQx7g8lt7-29">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-12" target="oiFNOzRaDenhQx7g8lt7-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-40" value="Improves" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-12" target="oiFNOzRaDenhQx7g8lt7-39">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-40" value="Improves" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-12" target="oiFNOzRaDenhQx7g8lt7-39" edge="1">
           <mxGeometry x="-0.2174" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-910" y="340" />
-              <mxPoint x="-910" y="390" />
+              <mxPoint x="-930" y="340" />
+              <mxPoint x="-930" y="390" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-12" value="Pasteurization by heating" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-12" value="Pasteurization by heating" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-830" y="310" width="255" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/modern-education-and-knowledge-power-1/512/494_atom_chemistry_molecule_laboratory-128.png;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/modern-education-and-knowledge-power-1/512/494_atom_chemistry_molecule_laboratory-128.png;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-840" y="222" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/32/519769-81_Thermometer_Quarter_Full-128.png;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/32/519769-81_Thermometer_Quarter_Full-128.png;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-815" y="316" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-19" target="oiFNOzRaDenhQx7g8lt7-33">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-19" target="oiFNOzRaDenhQx7g8lt7-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-19" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-19" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-725.63" y="470" width="46.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-29" target="oiFNOzRaDenhQx7g8lt7-19">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-29" target="oiFNOzRaDenhQx7g8lt7-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-29" value="fresh yolk containing 48 to 49% solids" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-29" value="fresh yolk containing 48 to 49% solids" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;glass=1;shadow=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-815" y="400" width="225" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-33" target="oiFNOzRaDenhQx7g8lt7-42">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-33" target="oiFNOzRaDenhQx7g8lt7-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-33" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;Yolk heated to 61 C&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;strokeColor=#d79b00;fillColor=#ffe6cc;rounded=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-33" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;Yolk heated to 61 C&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;rounded=1;shadow=0;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-827.51" y="540" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-35" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;Homogenization improves emulsion stability&amp;nbsp;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Times New Roman;fontSize=14;size=30;position=0.3;base=10;position2=0.05;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-550" y="142" width="200" height="80" as="geometry" />
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-35" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;Homogenization improves emulsion stability&amp;nbsp;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Times New Roman;fontSize=12;size=30;position=0.3;base=10;position2=0.05;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=50;fontStyle=1;gradientColor=#ea6b66;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-590" y="180" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-36" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;fontFamily=Times New Roman;fontSize=14;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-36" value="" style="shape=mxgraph.bpmn.loop;html=1;outlineConnect=0;fontFamily=Times New Roman;fontSize=12;rotation=0;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-600" y="290" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-41" value="No significant change" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-38" target="oiFNOzRaDenhQx7g8lt7-39">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-41" value="No significant change" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-38" target="oiFNOzRaDenhQx7g8lt7-39" edge="1">
           <mxGeometry x="-0.4795" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-910" y="570" />
-              <mxPoint x="-910" y="390" />
+              <mxPoint x="-930" y="570" />
+              <mxPoint x="-930" y="390" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/32/519769-81_Thermometer_Quarter_Full-128.png;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/32/519769-81_Thermometer_Quarter_Full-128.png;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-815" y="546" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-39" value="Emulsion Stability" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1120" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-39" value="Emulsion Stability" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fillColor=#eeeeee;strokeColor=#36393d;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1160" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-42" target="oiFNOzRaDenhQx7g8lt7-46">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-42" target="oiFNOzRaDenhQx7g8lt7-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-42" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;Yolk heated to 63 C&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;strokeColor=#d79b00;fillColor=#ffe6cc;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-42" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;Yolk heated to 63 C&amp;nbsp;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;rounded=1;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-827.51" y="631" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-45" value="Significant change" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-43" target="oiFNOzRaDenhQx7g8lt7-39">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-45" value="Significant change" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-43" target="oiFNOzRaDenhQx7g8lt7-39" edge="1">
           <mxGeometry x="-0.5482" relative="1" as="geometry">
             <mxPoint x="-1020" y="470" as="targetPoint" />
             <Array as="points">
@@ -91,28 +91,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/32/519769-81_Thermometer_Quarter_Full-128.png;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/32/519769-81_Thermometer_Quarter_Full-128.png;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-815" y="637" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-46" target="oiFNOzRaDenhQx7g8lt7-53">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-46" target="oiFNOzRaDenhQx7g8lt7-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-46" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;Stored salted (10% NaCl) liquid yolk&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;strokeColor=#b85450;fillColor=#f8cecc;rounded=1;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-46" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;Stored salted (10% NaCl) liquid yolk&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;rounded=1;shadow=1;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-872.51" y="730" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-48" value="" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-48" value="" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-847" y="745" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-57" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-51" target="oiFNOzRaDenhQx7g8lt7-56">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-57" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-51" target="oiFNOzRaDenhQx7g8lt7-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-77" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-51" target="oiFNOzRaDenhQx7g8lt7-58">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-77" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-51" target="oiFNOzRaDenhQx7g8lt7-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-51" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-51" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-320" y="270" width="46.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-53" target="oiFNOzRaDenhQx7g8lt7-51">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-53" target="oiFNOzRaDenhQx7g8lt7-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-410" y="850" />
@@ -120,53 +120,169 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-53" value="If&amp;nbsp;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;high temperature (&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;62 C to 78 C)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-53" value="If&amp;nbsp;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;high temperature (&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;62 C to 78 C)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;glass=1;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-857.51" y="820" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-56" target="oiFNOzRaDenhQx7g8lt7-60">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-56" target="oiFNOzRaDenhQx7g8lt7-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-56" value="If&amp;nbsp;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;low temperature (&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;52 C)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-56" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;low temperature (&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;52 C &amp;lt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-140" y="260" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-58" value="Sample for 5 min" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=14;strokeColor=#d6b656;fillColor=#fff2cc;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="foZd55mb5OMd99o-GPTo-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-58" target="foZd55mb5OMd99o-GPTo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-58" value="Sample for 5 min" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;rounded=1;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-406.88" y="370" width="220.01" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-60" value="Sample for 2 to 8 days" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontFamily=Times New Roman;fontSize=14;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-110" y="360" width="250" height="60" as="geometry" />
+        <mxCell id="foZd55mb5OMd99o-GPTo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-60" target="foZd55mb5OMd99o-GPTo-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-62" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/corona-virus-covid-19-14/512/50_Blood_lab_research_sample_test-128.png;rounded=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-60" value="Sample for 2 to 8 days" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontFamily=Times New Roman;fontSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-110" y="370" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-62" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/corona-virus-covid-19-14/512/50_Blood_lab_research_sample_test-128.png;rounded=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-390" y="382" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/corona-virus-covid-19-15/512/50_Blood_lab_research_sample_test-128.png;rounded=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/corona-virus-covid-19-15/512/50_Blood_lab_research_sample_test-128.png;rounded=1;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-90" y="370" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-79" value="contains" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-78" target="oiFNOzRaDenhQx7g8lt7-46">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-79" value="contains" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-78" target="oiFNOzRaDenhQx7g8lt7-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-78" value="Frozen yolk" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1140" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-78" value="Frozen yolk" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fillColor=#eeeeee;strokeColor=#36393d;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1160" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-82" target="oiFNOzRaDenhQx7g8lt7-78">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-82" target="oiFNOzRaDenhQx7g8lt7-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-82" value="frozen at 0 F or - 10 F &lt;br&gt;up to four months&amp;nbsp;&lt;br&gt;no loss of emulsification ability&amp;nbsp;" style="shape=tape;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=1;sketch=0;fontFamily=Times New Roman;fontSize=14;size=0.2;fillColor=#cdeb8b;strokeColor=#36393d;gradientDirection=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1180" y="890" width="200" height="130" as="geometry" />
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-82" value="frozen at 0 F or - 10 F &lt;br style=&quot;font-size: 12px;&quot;&gt;up to four months&amp;nbsp;&lt;br style=&quot;font-size: 12px;&quot;&gt;no loss of emulsification ability&amp;nbsp;" style="shape=tape;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=1;sketch=0;fontFamily=Times New Roman;fontSize=12;size=0.2;fillColor=#cdeb8b;strokeColor=#36393d;gradientDirection=north;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1200" y="800" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-87" value="&lt;font face=&quot;calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Produce much&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12pt ; line-height: 17.12px ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;stiffer mayonnaise&amp;nbsp;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Times New Roman;fontSize=14;size=30;position=0.3;base=10;position2=0.6;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1260" y="665" width="200" height="95" as="geometry" />
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-87" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Produce much&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 17.12px;&quot;&gt;stiffer mayonnaise&amp;nbsp;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Times New Roman;fontSize=12;size=30;position=0.3;base=10;position2=0.6;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=50;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1250" y="590" width="200" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-95" target="oiFNOzRaDenhQx7g8lt7-96">
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oiFNOzRaDenhQx7g8lt7-95" target="oiFNOzRaDenhQx7g8lt7-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-95" value="&lt;h2 style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;Start&lt;/font&gt;&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-742.51" y="12" width="80" height="50" as="geometry" />
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-95" value="&lt;h2 style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Start&lt;/font&gt;&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;gradientColor=#97d077;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-970" y="100" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-96" value="Egg yolk" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;sketch=0;fontFamily=Times New Roman;fontSize=14;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-762.51" y="120" width="120" height="40" as="geometry" />
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-96" value="Egg yolk" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=1;sketch=0;fontFamily=Times New Roman;fontSize=12;fillColor=#eeeeee;strokeColor=#36393d;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-762.51" y="115" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oiFNOzRaDenhQx7g8lt7-97" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;Contains an abundance of lecithin (&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;emulsifying agent)&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Times New Roman;fontSize=14;size=30;position=0.3;base=0;position2=0.05;gradientColor=#ffd966;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;arcSize=50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-640" y="62" width="200" height="80" as="geometry" />
+        <mxCell id="oiFNOzRaDenhQx7g8lt7-97" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;Contains an abundance of lecithin (&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;emulsifying agent)&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Times New Roman;fontSize=12;size=30;position=0.3;base=0;position2=0.05;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=50;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-660" y="60" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-1" target="foZd55mb5OMd99o-GPTo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-1" value="&lt;h2 style=&quot;text-indent: -18pt; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-indent: -18pt;&quot;&gt;Add water and other additives (salt, sugar, spices,&amp;nbsp;&lt;/span&gt;&lt;/h2&gt;&lt;h2 style=&quot;text-indent: -18pt; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-indent: -18pt;&quot;&gt;vinegar or edible acid) (5-15 % in formula)&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/h2&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;rounded=1;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="486" width="400" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-6" target="foZd55mb5OMd99o-GPTo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-6" value="&lt;h2 style=&quot;text-indent: -18pt; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Oil is dispersed (i.e. 20-100μm) in a pre-mix&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;text-indent: -18pt; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;tank&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;rounded=1;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="640" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-8" value="&lt;h2 style=&quot;text-indent: -18pt; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Transfer to flowing steam using emulsifying&amp;nbsp;machine&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;&lt;div style=&quot;text-indent: -24px; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;to finely sub-divide the oil into droplets&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=12;strokeColor=#d79b00;fillColor=#ffe6cc;rounded=1;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="760" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-10" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;1-5μm in size&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Times New Roman;fontSize=12;size=30;position=0.3;base=10;position2=0.05;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=50;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-40" y="700" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-15" value="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-195" y="890" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-72" target="foZd55mb5OMd99o-GPTo-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-72" value="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1110" y="1000" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-73" target="foZd55mb5OMd99o-GPTo-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-73" value="Smaller droplets larger interfacial and &lt;br style=&quot;font-size: 12px;&quot;&gt;higher internal pressure" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Times New Roman;fontStyle=1;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1250" y="1130" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-74" target="foZd55mb5OMd99o-GPTo-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-74" value="Vinegar (suitably diluted with water) and egg yolk (emulsif ier) are, while being stirred, mixed with seasonings and spices (these are generally soluble in water), to which is added vegetable oil (salad oil) and further stirred to give an oil/water (o/w) emulsion. The acid degree of the vinegar may be from 4.5 to 1 0 %, preferably from 4.5 to 5.5 %.&amp;nbsp; &amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;fontFamily=Times New Roman;fontStyle=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1300" y="1230" width="450" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-77" target="foZd55mb5OMd99o-GPTo-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-77" value="Salt influence the rate of oxidation of the oil add taste also" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;fontFamily=Times New Roman;fontStyle=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1241.25" y="1375" width="332.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-79" target="foZd55mb5OMd99o-GPTo-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-79" value="&lt;h2 style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;vegetable oil, vinegar and emulsifier along with&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;other seasonings and spices, and is stored in an oxygen-free container.&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt; This finely disperses the oil into the aqueous phase, immediately forming an emulsion. The vinegar (and lemon juice) is added together with the last of the oil.&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;oil into the aqueous phase, immediately forming an emulsion. The vinegar (and&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;lemon juice) is added together with the last of the oil.&amp;nbsp;&amp;nbsp;&lt;/span&gt;oil into the aqueous phase, immediately forming an emulsion. The vinegar (and lemon juice) is added together with the last of the oil.&lt;/h2&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=10;fontFamily=Times New Roman;fontStyle=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1362.5" y="1460" width="575" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-81" target="foZd55mb5OMd99o-GPTo-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-740" y="1340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-720" y="1700" />
+              <mxPoint x="-720" y="1135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-81" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;emulsifying effect of mustard on mayonnaise&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontStyle=1;strokeWidth=2;arcSize=10;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1240" y="1670" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-85" target="foZd55mb5OMd99o-GPTo-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-85" value="&lt;div style=&quot;text-align: justify; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;Three tests were used to evaluate mustard:&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;&lt;div style=&quot;text-align: justify; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;(1)&amp;nbsp;foaming power of a mustard/ water solution,&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;(2) stability of oil drops on the&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;surface of a mustard/water solution&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;(3) stability of simple o/w emulsions&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;using a solution of mustard&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=40;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-760" y="1105" width="489.38" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-86" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;emulsion stability increased as the mustard level increased up to 4%.&lt;/span&gt;&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Times New Roman;fontSize=12;size=30;position=0.3;base=10;position2=0.6;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;arcSize=50;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-910" y="1035" width="263" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-87" target="foZd55mb5OMd99o-GPTo-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-87" value="&lt;div style=&quot;text-align: justify; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Oil was dropped onto the surface of a 4% solution of mustard, the drops stayed completely apart, indicating stabilization due to the mustard. Mustard exerts a stabilizing effect on emulsions. 2.1% fine mustard flour or 2.5% coarse mustard flour caused inversion of the emulsion to o/w.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=40;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-679.38" y="1270" width="489.38" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-89" target="foZd55mb5OMd99o-GPTo-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-89" value="&lt;div style=&quot;text-align: justify; font-size: 12px;&quot;&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -18pt; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Once the pre-emulsion is&amp;nbsp;completed, the pump and the mixer is switched on to recirculate the product till the mayonnaise is obtained.&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px; line-height: 107%; background: white;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=40;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-679.38" y="1480" width="489.38" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-91" target="foZd55mb5OMd99o-GPTo-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-91" value="&lt;div style=&quot;text-align: justify; font-size: 12px;&quot;&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -18pt; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;The method achieves the increased viscosity and small oil droplet size by use of high pressure homogenization with enzyme-modified egg with a high fat content.&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=40;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-679.38" y="1640" width="489.38" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-93" target="foZd55mb5OMd99o-GPTo-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-93" value="&lt;div style=&quot;text-align: justify; font-size: 12px;&quot;&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -18pt; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; When the mayonnaise is prepared, it is transferred into the buffer&amp;nbsp; &amp;nbsp; &amp;nbsp;tank and it is ready for packaging&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=40;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-70" y="1080" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="foZd55mb5OMd99o-GPTo-95" target="foZd55mb5OMd99o-GPTo-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-95" value="&lt;div style=&quot;text-align: justify ; font-size: 12px&quot;&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;margin-left: 18pt ; text-indent: -18pt ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px ; line-height: 107%&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;The mixture is pumped through an in-line mixer and the mayonnaise is obtained with only one pass, then it is pumped into a buffer tank and is ready for packaging&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 12px ; line-height: 107% ; background: white&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=40;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-70" y="1250" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="foZd55mb5OMd99o-GPTo-97" value="Stop" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;strokeWidth=2;arcSize=40;fontStyle=1;fontSize=12;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="1390" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
